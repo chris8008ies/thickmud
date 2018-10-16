@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "This Mud is THICK!"
 date:   2018-10-08 19:33:40 -0500
 categories: jekyll update
 ---
